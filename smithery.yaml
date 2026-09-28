@@ -1,0 +1,6 @@
+name: genpark-label-propagation-semi-supervised-graph-skill
+version: 1.0.0
+description: Semi-supervised Label Propagation Algorithm (LPA) for graph node classification and community clustering
+command: python
+args:
+  - mcp_server.py
