@@ -1,0 +1,20 @@
+{
+  "name": "genpark-label-propagation-semi-supervised-graph-skill",
+  "version": "1.0.0",
+  "description": "Semi-supervised Label Propagation Algorithm (LPA) for graph node classification and community clustering",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "label-propagation",
+    "semi-supervised-learning",
+    "graph-classification",
+    "community-detection",
+    "graph-algorithms",
+    "python-standard-library",
+    "agent-skills",
+    "seed-propagation",
+    "network-science",
+    "transductive-learning"
+  ]
+}
